@@ -5,15 +5,15 @@
 ### 🚢 Tek USB. Sınırsız ISO. Tek menü.
 
 [![Lisans: GPLv3](https://img.shields.io/badge/Lisans-GPLv3-blue?style=for-the-badge&logo=gnu&logoColor=white)](LICENSE)
-[![Sürüm](https://img.shields.io/github/v/release/KULLANICIADI/cruiser-isobox?style=for-the-badge&color=ff6b35&label=S%C3%BCr%C3%BCm)](https://github.com/KULLANICIADI/cruiser-isobox/releases)
-[![İndirme](https://img.shields.io/github/downloads/KULLANICIADI/cruiser-isobox/total?style=for-the-badge&color=2ecc71&label=%C4%B0ndirme)](https://github.com/KULLANICIADI/cruiser-isobox/releases)
-[![Yıldız](https://img.shields.io/github/stars/KULLANICIADI/cruiser-isobox?style=for-the-badge&color=f1c40f)](https://github.com/KULLANICIADI/cruiser-isobox/stargazers)
+[![Sürüm](https://img.shields.io/github/v/release/astaxstudio/cruiser-isobox?style=for-the-badge&color=ff6b35&label=S%C3%BCr%C3%BCm)](https://github.com/astaxstudio/cruiser-isobox/releases)
+[![İndirme](https://img.shields.io/github/downloads/astaxstudio/cruiser-isobox/total?style=for-the-badge&color=2ecc71&label=%C4%B0ndirme)](https://github.com/astaxstudio/cruiser-isobox/releases)
+[![Yıldız](https://img.shields.io/github/stars/astaxstudio/cruiser-isobox?style=for-the-badge&color=f1c40f)](https://github.com/astaxstudio/cruiser-isobox/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PR-Kabul%20Edilir-ff69b4?style=for-the-badge)](CONTRIBUTING.md)
 
-**[⬇️ İndir](https://github.com/KULLANICIADI/cruiser-isobox/releases)** •
+**[⬇️ İndir](https://github.com/astaxstudio/cruiser-isobox/releases)** •
 **[📖 Kullanım](#-nasıl-kullanılır)** •
-**[🐛 Hata Bildir](https://github.com/KULLANICIADI/cruiser-isobox/issues)** •
-**[💬 Fikir Öner](https://github.com/KULLANICIADI/cruiser-isobox/discussions)**
+**[🐛 Hata Bildir](https://github.com/astaxstudio/cruiser-isobox/issues)** •
+**[💬 Fikir Öner](https://github.com/astaxstudio/cruiser-isobox/discussions)**
 
 </div>
 
