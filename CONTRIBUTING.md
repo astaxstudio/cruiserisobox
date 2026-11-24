@@ -7,8 +7,8 @@ Kod yazmak zorunda değilsin. Hata bildirmek, çeviri yapmak, logo çizmek ya da
 
 | Katkı türü | Nasıl? |
 |---|---|
-| 🐛 **Hata bildirimi** | [Issues](https://github.com/KULLANICIADI/cruiser-isobox/issues) sayfasından yeni bir issue aç |
-| ✨ **Özellik fikri** | [Discussions](https://github.com/KULLANICIADI/cruiser-isobox/discussions) sayfasında paylaş |
+| 🐛 **Hata bildirimi** | [Issues](https://github.com/astaxstudio/cruiser-isobox/issues) sayfasından yeni bir issue aç |
+| ✨ **Özellik fikri** | [Discussions](https://github.com/astaxstudio/cruiser-isobox/discussions) sayfasında paylaş |
 | 🌍 **Çeviri** | Dil dosyasını çevirip pull request gönder |
 | 🎨 **Tasarım / logo** | Önerini issue olarak aç, görseli ekle |
 | 📖 **Dokümantasyon** | README ve kılavuzlardaki hataları düzelt, eksikleri tamamla |
@@ -32,7 +32,7 @@ Hatayı hızlı çözebilmemiz için şunları yaz:
 1. Depoyu **fork** et
 2. Kendi bilgisayarına klonla:
    ```bash
-   git clone https://github.com/KULLANICIADI/cruiser-isobox.git
+   git clone https://github.com/astaxstudio/cruiser-isobox.git
    cd cruiser-isobox
    ```
 3. Yeni bir dal aç:
